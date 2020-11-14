@@ -1,4 +1,4 @@
-package org.ernold.sqlitecrudexample;
+package org.mobile.sqlitecrudexample;
 
 import org.junit.Test;
 

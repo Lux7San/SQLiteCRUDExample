@@ -1,4 +1,4 @@
-package org.ernold.sqlitecrudexample;
+package org.mobile.sqlitecrudexample;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("org.ernold.sqlitecrudexample", appContext.getPackageName());
+        assertEquals("org.mobile.sqlitecrudexample", appContext.getPackageName());
     }
 }
